@@ -1,0 +1,5 @@
+Log Entry: 
+---------------------------------
+Total Execution Time: 4196ms
+Total Valid Rows: 201075
+Total Skipped Rows: 81844
